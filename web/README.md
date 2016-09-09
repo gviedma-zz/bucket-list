@@ -11,7 +11,7 @@ My collection of useful web links.
 * [Let's talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging) by Dave Cheney
 * [Naming conventions](https://talks.golang.org/2014/names.slide#1) by Andrew Gerrand
 * [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
-
+* [Advanced Testing with Go](https://speakerdeck.com/mitchellh/advanced-testing-with-go) by Mitchell Hashimoto
 
 ## People
 * [Peter Bourgon](https://peter.bourgon.org/talks/) [![twitter][twitter_logo]](https://twitter.com/peterbourgon)
