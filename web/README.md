@@ -14,7 +14,8 @@ My collection of useful web links.
 
 
 ## People
-* [Bernard Golden](www.bernardgolden.com) [![twitter][twitter_logo]](https://twitter.com/bernardgolden)
+* [Peter Bourgon](https://peter.bourgon.org/talks/) [![twitter][twitter_logo]](https://twitter.com/peterbourgon)
+* [Mitchell Hashimoto](http://mitchellh.com/) [![twitter][twitter_logo]](https://twitter.com/mitchellh)
+* [Bernard Golden](http://www.cio.com/author/Bernard-Golden/) [![twitter][twitter_logo]](https://twitter.com/mitchellh)
 
-[twitter_logo]: https://upload.wikimedia.org/wikipedia/commons/c/c8/Farm-Fresh_twitter_1.png "twitter"
-{: height="10px" width="10px"}
+[twitter_logo]: https://pbs.twimg.com/media/BIU80WkCIAEFI2U.png "twitter"
