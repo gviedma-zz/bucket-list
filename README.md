@@ -29,6 +29,7 @@ A collection of web links and resources relating to computer science and softwar
 
 ## Golang
 * [Effective Go](https://golang.org/doc/effective_go.html)
+* [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers) by Dave Cheney
 * [A collection of go best practices](https://peter.bourgon.org/go-best-practices-2016/) by Peter Gourdon
 * [Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.vib0fw86i) by Ben Johnson
 * [Let's talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging) by Dave Cheney
@@ -43,9 +44,14 @@ A collection of web links and resources relating to computer science and softwar
 * [Markdown Syntax](markdown-cheatsheet.pdf) \[[source](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)\]
 * [Markdown Web Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+# Videos
+
+* [It's 3AM, Do You Know Why You Got Paged?](http://ryanfrantz.com/talks/3am-why-you-got-paged/)
+
 # Books
 
 # People
+* [Dave Cheney](http://dave.cheney.net/)
 * [Peter Bourgon](https://peter.bourgon.org/talks/) [![twitter][twitter_logo]](https://twitter.com/peterbourgon)
 * [Mitchell Hashimoto](http://mitchellh.com/) [![twitter][twitter_logo]](https://twitter.com/mitchellh)
 * [Bernard Golden](http://www.cio.com/author/Bernard-Golden/) [![twitter][twitter_logo]](https://twitter.com/mitchellh)
