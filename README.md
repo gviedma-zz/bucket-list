@@ -4,6 +4,7 @@ A collection of web links and resources relating to computer science and softwar
 * [Papers](#papers)
 
 # Books
+* [Building Microservices](https://www.amazon.co.uk/gp/product/1491950358/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491950358&linkCode=as2&tag=gerarsbucke-21) by Sam Newman
 
 # Papers
 
@@ -51,6 +52,8 @@ A collection of web links and resources relating to computer science and softwar
 
 # Videos
 * [It's 3AM, Do You Know Why You Got Paged?](http://ryanfrantz.com/talks/3am-why-you-got-paged/)
+
+# Courserware
 
 # Tools
 ## Commandline
