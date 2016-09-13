@@ -61,7 +61,7 @@ A collection of web links and resources relating to computer science and softwar
 * [ngrok](https://ngrok.com/): secure channels to localhost
 
 ## Documentation
-* [Jupyter](http://jupyter.org/): create and share documents that contain live code, equations, visualizations and explanatory text
+* [Jupyter](http://jupyter.org/): create and share documents that contain live code, equations, visualizations and explanatory text.
 
 # People
 * [Dave Cheney](http://dave.cheney.net/)
