@@ -1,6 +1,9 @@
 A collection of web links and resources relating to computer science and software engineering.
 
+* [Books](#books)
 * [Papers](#papers)
+
+# Books
 
 # Papers
 
@@ -40,15 +43,19 @@ A collection of web links and resources relating to computer science and softwar
 # Cheat Sheets
 
 ## Github
-
 * [Markdown Syntax](markdown-cheatsheet.pdf) \[[source](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)\]
 * [Markdown Web Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Videos
-
 * [It's 3AM, Do You Know Why You Got Paged?](http://ryanfrantz.com/talks/3am-why-you-got-paged/)
 
-# Books
+# Tools
+## Commandline
+* [jq](https://stedolan.github.io/jq/): like sed for JSON data
+* [ngrok](https://ngrok.com/): secure channels to localhost
+
+## Documentation
+* [Jupyter](http://jupyter.org/): create and share documents that contain live code, equations, visualizations and explanatory text
 
 # People
 * [Dave Cheney](http://dave.cheney.net/)
