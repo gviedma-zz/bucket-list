@@ -22,6 +22,9 @@ A collection of web links and resources relating to computer science and softwar
 * [InfluxDB](https://www.influxdata.com/)
 * [OpenTDSB](http://opentsdb.net/)
 
+## Distributed Systems
+* [Go Micro](https://github.com/micro/micro): toolkit for microservice development and management
+
 # Articles
 
 ## Cloud
