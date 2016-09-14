@@ -4,8 +4,14 @@ A collection of web links and resources relating to computer science and softwar
 * [Papers](#papers)
 
 # Books
-* [Building Microservices](https://www.amazon.co.uk/gp/product/1491950358/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491950358&linkCode=as2&tag=gerarsbucke-21) by Sam Newman
 
+## Distributed Systems
+* [Building Microservices](http://amzn.to/2cmFA4m) by Sam Newman
+
+## Golang
+* [Programming in Go](http://amzn.to/2cZKRhf)
+* [The Go Programming Language](http://amzn.to/2cZLtmM)
+*[Learning Go](https://miek.nl/downloads/2015/go.pdf): free PDF ebook
 # Papers
 
 ## Distributed Systems
