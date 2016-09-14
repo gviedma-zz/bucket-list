@@ -11,6 +11,7 @@ A collection of web links and resources relating to computer science and softwar
 ## Golang
 * [Programming in Go](http://amzn.to/2cZKRhf)
 * [The Go Programming Language](http://amzn.to/2cZLtmM)
+* [Go in Action](http://amzn.to/2cZLBmr)
 * [Learning Go](https://miek.nl/downloads/2015/go.pdf): free PDF ebook
 
 # Papers
