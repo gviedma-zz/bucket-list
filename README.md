@@ -12,10 +12,10 @@ A collection of web links and resources relating to computer science and softwar
 * [Programming in Go](http://amzn.to/2cZKRhf)
 * [The Go Programming Language](http://amzn.to/2cZLtmM)
 * [Learning Go](https://miek.nl/downloads/2015/go.pdf): free PDF ebook
+
 # Papers
 
 ## Distributed Systems
-
 [Chubby Distributed Lock Service](chubby-osdi06.pdf) \[[source](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)\]
 
 
