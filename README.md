@@ -71,7 +71,7 @@ A collection of web links and resources relating to computer science and softwar
 * [Jupyter](http://jupyter.org/): create and share documents that contain live code, equations, visualizations and explanatory text.
 
 # People
-* [Dave Cheney](http://dave.cheney.net/)
+* [Dave Cheney](http://dave.cheney.net/) [![twitter][twitter_logo]](https://twitter.com/davecheney)
 * [Peter Bourgon](https://peter.bourgon.org/talks/) [![twitter][twitter_logo]](https://twitter.com/peterbourgon)
 * [Mitchell Hashimoto](http://mitchellh.com/) [![twitter][twitter_logo]](https://twitter.com/mitchellh)
 * [Bernard Golden](http://www.cio.com/author/Bernard-Golden/) [![twitter][twitter_logo]](https://twitter.com/mitchellh)
