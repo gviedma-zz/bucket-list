@@ -17,8 +17,8 @@ A collection of web links and resources relating to computer science and softwar
 # Papers
 
 ## Distributed Systems
-* [Chubby Distributed Lock Service](papers/chubby-osdi06.pdf) \[[source](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)\]
-* [On Designing and Deploying Internet-Scale Services](papers/hamilton.pdf) \[[source](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton.pdf)\]
+* [Chubby Distributed Lock Service](pdfs/chubby-osdi06.pdf) \[[source](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)\]
+* [On Designing and Deploying Internet-Scale Services](pdfs/hamilton.pdf) \[[source](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton.pdf)\]
 
 # Projects
 
