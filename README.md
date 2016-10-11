@@ -41,6 +41,9 @@ A collection of web links and resources relating to computer science and softwar
 ## Metrics/Monitoring
 * [Logs and Metrics and Graphs, Oh My!](https://blog.raintank.io/logs-and-metrics-and-graphs-oh-my/)
 
+## Testing
+* [Testing Strategies for Docker Containers](http://blog.terranillius.com/post/docker_testing/)
+
 ## Golang
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers) by Dave Cheney
